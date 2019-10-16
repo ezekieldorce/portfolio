@@ -1,7 +1,29 @@
 html { 
-    background: url(Fire.jpeg) no-repeat center center fixed; 
+    background: url(workspace.jpeg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Libre Baskerville', serif;
   }
+h1 { 
+  margin-bottom: -20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+.me{
+  height: 150px;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: green;
+
+}
+
+#wrapper{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 14px;
